@@ -1,3 +1,4 @@
+# Experiment 5
 # GENERATION-AND-DETECTION-OF-FM---USING---SCILAB---T1---M4---ODD
 # FREQUENCY MODULATION AND DEMODULATION
 
@@ -82,4 +83,17 @@ The circuits used to generate a frequency modulation must vary the frequency of 
 
 ## MODEL GRAPH
 
+## Tabulation 
 
+<img width="1280" height="826" alt="image" src="https://github.com/user-attachments/assets/a237e528-9d6c-4d71-8b1c-5d50e9e74922" />
+
+
+
+
+## output
+<img width="1110" height="634" alt="image" src="https://github.com/user-attachments/assets/3fb22b87-d082-4f92-99cd-46f35c61b681" />
+
+
+## Results
+
+ Successfully generated frequency Modulation and Demodulation using SCILAB and to observe and measure the frequency deviation and the modulation index of FM.
